@@ -3,8 +3,8 @@
 
 int main(int argc, char* argv[])
 {
-   char a[16];
-   char b[16];
+   char a[10];
+   char b[10];
    char c[32];    
 
    strcpy(a, "0123456789abcdef");
